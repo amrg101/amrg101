@@ -2,7 +2,6 @@
 
 I'm an Android Engineer from Egypt. I'm a tech-savvy, analytical thinker, problem solver. Thank You for taking the time to view my GitHub Profile :smile:
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=amrg101&show_icons=true&theme=dark" style="max-width: 100%;">
 
 - 🔭 I'm working to improve my technical skill
 
@@ -13,3 +12,5 @@ I'm an Android Engineer from Egypt. I'm a tech-savvy, analytical thinker, proble
 - 💬 Talk to me about anything
 
 - 📝 Contact me <a href="https://www.linkedin.com/in/amrg101"> Linkedin </a> or amr2018xo@gmail.com
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amrg101&theme=dark)](https://git.io/streak-stats)
