@@ -2,7 +2,7 @@
 
 I'm an Android Engineer from Egypt. I'm a tech-savvy, analytical thinker, problem solver. Thank You for taking the time to view my GitHub Profile :smile:
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=barissaglam&show_icons=true&theme=dark" style="max-width: 100%;">
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=amrg101&show_icons=true&theme=dark" style="max-width: 100%;">
 
 - 🔭 I'm working to improve my technical skill
 
