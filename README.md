@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2> Hi! I'm Amr👋 </h2>
 
-<!--
-**amrg101/amrg101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Engineer from Egypt. I'm a tech-savvy, analytical thinker, problem solver. Thank You for taking the time to view my GitHub Profile :smile:
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=barissaglam&show_icons=true&theme=dark" style="max-width: 100%;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm working to improve my technical skill
+
+- 🌱 I'm trying to learn more about Android and Kotlin
+
+- 👯 I’m looking to collaborate on Projects, Tech Articles
+
+- 💬 Talk to me about anything
+
+- 📝 Contact me <a href="https://www.linkedin.com/in/amrg101"> Linkedin </a> or amr2018xo@gmail.com
